@@ -38,7 +38,7 @@ namespace GeometryExample.Cylinder
         {
             Console.WriteLine("Cylinder Characteristics");
             Console.WriteLine("Radius: " + radius + ",Height: " + height);
-            Console.WriteLine("Base: " + BaseArea + "- Lateral: " + LateralArea + "- Total: " + TotalArea + "- Volume: " + Volume);
+            Console.WriteLine("Base: " + BaseArea + " | Lateral: " + LateralArea + " | Total: " + TotalArea + " | Volume: " + Volume);
         }
     }
 }
