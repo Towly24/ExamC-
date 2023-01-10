@@ -1,0 +1,15 @@
+D:\C#\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.exe
+D:\C#\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.deps.json
+D:\C#\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.runtimeconfig.json
+D:\C#\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.dll
+D:\C#\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.pdb
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.csproj.AssemblyReference.cache
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.AssemblyInfoInputs.cache
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.AssemblyInfo.cs
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.csproj.CoreCompileInputs.cache
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.dll
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\refint\GeometryExample.dll
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.pdb
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.genruntimeconfig.cache
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net7.0\ref\GeometryExample.dll
